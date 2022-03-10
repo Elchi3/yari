@@ -1806,10 +1806,10 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@mdn/browser-compat-data@4.1.3":
-  version "4.1.3"
-  resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-4.1.3.tgz#988fffa6fbd1fb5468f4e99cc89f51c30527720d"
-  integrity sha512-489a7ook3U/LZtFAw4c713LgQa/hTVMUdWPmrUHox+gF/xbR01EQkJfSjiVeKPGS8SQtnkcHyuiBkIwRZZaYlQ==
+"@mdn/browser-compat-data@4.1.11":
+  version "4.1.11"
+  resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-4.1.11.tgz#bba69cb97e224d70b8755492b2e2d0103a60fa94"
+  integrity sha512-sYJ5CWXVAJX3608rV3WowUGxPm3p7HCgoGh/eBseCQ2c5ALBz6oRTK2OWPFz679aBUik6IY1IlA89uxbb5/FjA==
 
 "@mdn/dinocons@^0.3.5":
   version "0.3.5"
