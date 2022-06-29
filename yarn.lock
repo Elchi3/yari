@@ -10098,6 +10098,11 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
+lru-cache@^7.11.0:
+  version "7.11.0"
+  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-7.11.0.tgz#e8e18a08af9c2af3fabdfe0cc43d24aed94a5f3a"
+  integrity sha512-cMXDHMxwo6Rv5Zdv4ReNNSpRkCTCRRV0JGGTaF3WN3emk0Th35YNWr+U645hjvh+RxjwifVYoJ6368fKHtVBKw==
+
 lz-string@^1.4.4:
   version "1.4.4"
   resolved "https://registry.yarnpkg.com/lz-string/-/lz-string-1.4.4.tgz#c0d8eaf36059f705796e1e344811cf4c498d3a26"
